@@ -1,0 +1,113 @@
+CAMERA
+Origem -> -40.00, -50.00, -195.00
+Direcao -> -40.00, -70.00, -220.00
+
+OBJECTO [1]
+Label: Creto_Imagem
+Center -> -80.00, -224.13, -324.62
+size_x -> 10.40
+size_y -> 5.98
+size_z -> 0.50
+
+OBJECTO [2]
+Label: arvore
+Center -> -80.00, -226.48, -335.56
+Radius -> 15.00
+Height -> 20.00
+
+OBJECTO [3]
+Label: arvore
+Center -> -80.00, -242.09, -323.06
+Radius -> 4.20
+Height -> 20.00
+
+OBJECTO [4]
+Label: casa_lula_molusco
+Center -> -30.00, -216.95, -363.67
+size_x -> 28.00
+size_y -> 1.95
+size_z -> 1.00
+
+OBJECTO [5]
+Label: casa_lula_molusco
+Center -> -30.00, -245.84, -340.55
+size_x -> 11.05
+size_y -> 16.57
+size_z -> 1.00
+
+OBJECTO [6]
+Label: casa_lula_molusco
+Center -> -21.00, -222.57, -357.89
+Radius -> 5.60
+
+OBJECTO [7]
+Label: casa_lula_molusco
+Center -> -39.00, -222.57, -357.89
+Radius -> 5.60
+
+OBJECTO [8]
+Label: casa_lula_molusco
+Center -> -30.00, -224.76, -357.42
+size_x -> 5.10
+size_y -> 19.00
+size_z -> 1.00
+
+OBJECTO [9]
+Label: casa_lula_molusco
+Center -> -30.00, -264.58, -351.17
+Radius -> 20.00
+Height -> 60.00
+
+OBJECTO [10]
+Label: casa_lula_molusco
+Center -> -12.25, -225.48, -361.53
+size_x -> 5.00
+size_y -> 13.00
+size_z -> 1.00
+
+OBJECTO [11]
+Label: casa_lula_molusco
+Center -> -47.75, -225.48, -361.53
+size_x -> 5.00
+size_y -> 13.00
+size_z -> 1.00
+
+OBJECTO [12]
+Label: chao
+Center -> -40.00, -263.18, -344.61
+size_x -> 240.00
+size_y -> 6.40
+size_z -> 240.00
+
+OBJECTO [13]
+Label: parede1
+Center -> -159.00, -221.17, -376.94
+size_x -> 6.00
+size_y -> 102.00
+size_z -> 235.88
+
+OBJECTO [14]
+Label: parede2
+Center -> -38.50, -294.88, -469.08
+size_x -> 238.95
+size_y -> 100.00
+size_z -> 1.00
+
+OBJECTO [15]
+Label: parede3
+Center -> 78.00, -221.17, -376.94
+size_x -> 6.00
+size_y -> 102.00
+size_z -> 235.88
+
+OBJECTO [16]
+Label: poste
+Center -> 10.00, -260.83, -346.49
+Radius -> 3.00
+Height -> 55.00
+
+OBJECTO [17]
+Label: poste
+Center -> 10.00, -213.98, -383.97
+Radius -> 5.20
+
